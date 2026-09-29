@@ -257,4 +257,4 @@ Recommended production routing (Nginx):
 This project is licensed under the **MIT License**  
 Maintained by **DitDev**
 
-See `LICENSE` for details.
+See `LICENSE` for details. See The Details
